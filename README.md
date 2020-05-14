@@ -14,7 +14,6 @@ dice_face: number of faces of the dice.
 modifier: value of a bonus or maluse
 Standard dice have a number of sides of: 2, 4, 6, 8, 10, 12, 20 or 100
 but you can use other positive values.
-"""
 
 roll():
 Roll the dice.
